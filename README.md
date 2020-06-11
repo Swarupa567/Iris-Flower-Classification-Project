@@ -13,7 +13,8 @@ The dataset for this project originates from the UCI Machine Learning Repository
 
 The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor).
 Four features were measured from each sample (in centimetres):
-Length of the sepals
+
+Length of the sepals/n
 Width of the sepals
 Length of the petals
 Width of the petalsr.
