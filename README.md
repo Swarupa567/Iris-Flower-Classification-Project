@@ -1,7 +1,7 @@
 # Iris-Flower-Classification-Project
 
 This project is used to classify the different species of iris floweMachine Learning Project : Iris-flower-classification
-This program applies basic machine learning (classification) concepts on Fisher's Iris Data to predict the species of a new sample of Iris flower.
+This program applies basic machine learning (classification) concepts on Iris Data to predict the species of a new sample of Iris flower.
 
 Software and Libraries
 
